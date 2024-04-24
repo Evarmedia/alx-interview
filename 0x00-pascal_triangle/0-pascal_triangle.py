@@ -4,7 +4,7 @@ from typing import List
 
 def pascal_triangle(n: int) -> List[list]:
     '''
-    Pascal triangle
+    Pascal's triangle
     '''
     if n <= 0:
         return []
